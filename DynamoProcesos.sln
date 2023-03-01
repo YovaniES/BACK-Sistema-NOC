@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{B29594DB-B5B3-431C-9D94-9F2C0D277333}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema-NOC", "Dynamo\Sistema-NOC.csproj", "{13C96CA9-3268-4611-826B-0EECCB250703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web-Procesos", "Dynamo\Web-Procesos.csproj", "{13C96CA9-3268-4611-826B-0EECCB250703}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfiguradorBLL", "ConfiguradorBLL\ConfiguradorBLL.csproj", "{61C61145-FF5C-41AA-9AAF-2A23D7976FB7}"
 EndProject
